@@ -1,0 +1,5 @@
+func=lambda a,b:a if (a>b) else b
+print(func(4,6))
+
+func=lambda a,b=5:a if (a>b) else b
+print(func(4))
