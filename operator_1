@@ -7,3 +7,7 @@ set3=set1.union(set2)
 print(set3)
 set4={"execute",1212}
 set5=set3|set4
+
+#intersection operator
+set3=set1.intersection(set2)
+print(set3)
