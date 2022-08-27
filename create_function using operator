@@ -1,0 +1,28 @@
+assinment_ 4
+
+#To perform a operator
+a=input("enter a number:")
+b=input("enter a second number:")
+a=int(a)
+b=int(b)
+x="a is less than or not b"
+y="a is eqal to b or not"
+print("a is less than or not b",a<b)
+print("a is eqal to b or not",y)
+
+#To perform a operator
+a=input("enter a number:")
+b=input("enter a second number:")
+a=int(a)
+b=int(b)
+x="a is less than or not b"
+y="a is eqal to b or not"
+print("a is less than or not b",a<b)
+print("a is eqal to b or not",y)
+
+#bitwise operator 
+a=2
+b=8
+print("a&b=",a&b)
+print("a|b=",a|b)
+print("a^b=",a^b)
